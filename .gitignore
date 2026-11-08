@@ -1,0 +1,4 @@
+dist/
+*.exe
+/swisstransfer
+.DS_Store
